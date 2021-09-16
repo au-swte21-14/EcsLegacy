@@ -17,10 +17,22 @@ namespace Ecs.Legacy.Test.Unit
             uut = new global::ECS.Legacy.ECS(23, _fakeTempSensor, _fakeHeater);
         }
 
-        [Test]
-        public void Test1()
+        [TestCase(5,5)]
+        [TestCase(10,10)]
+        [TestCase(20,20)]
+        public void SetThreshholdTest(int input, int output)
         {
-            Assert.Pass();
+            uut.SetThreshold(input);
+            Assert.That(uut.GetThreshold().Equals(input));
+        }
+        
+        [TestCase(5,5)]
+        [TestCase(10,10)]
+        [TestCase(20,20)]
+        public void GetThreshholdTest(int input, int output)
+        {
+            uut.SetThreshold(input);
+            Assert.That(uut.GetThreshold().Equals(output));
         }
     }
 }
