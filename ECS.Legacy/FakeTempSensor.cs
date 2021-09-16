@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 
 namespace ECS.Legacy
 {
-    internal class TempSensor : ITempSensor
+    public class FakeTempSensor : ITempSensor
     {
         private Random gen = new Random();
 
