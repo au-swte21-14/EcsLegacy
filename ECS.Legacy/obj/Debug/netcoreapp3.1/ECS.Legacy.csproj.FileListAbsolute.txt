@@ -1,0 +1,12 @@
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/bin/Debug/netcoreapp3.1/ECS.Legacy.deps.json
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/bin/Debug/netcoreapp3.1/ECS.Legacy.runtimeconfig.json
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/bin/Debug/netcoreapp3.1/ECS.Legacy.runtimeconfig.dev.json
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/bin/Debug/netcoreapp3.1/ECS.Legacy.dll
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/bin/Debug/netcoreapp3.1/ECS.Legacy.pdb
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/obj/Debug/netcoreapp3.1/ECS.Legacy.csprojAssemblyReference.cache
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/obj/Debug/netcoreapp3.1/ECS.Legacy.AssemblyInfoInputs.cache
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/obj/Debug/netcoreapp3.1/ECS.Legacy.AssemblyInfo.cs
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/obj/Debug/netcoreapp3.1/ECS.Legacy.csproj.CoreCompileInputs.cache
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/obj/Debug/netcoreapp3.1/ECS.Legacy.dll
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/obj/Debug/netcoreapp3.1/ECS.Legacy.pdb
+/Users/magnuschristensen/RiderProjects/EcsLegacy/ECS.Legacy/obj/Debug/netcoreapp3.1/ECS.Legacy.genruntimeconfig.cache
